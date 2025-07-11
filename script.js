@@ -61,7 +61,7 @@
 
             // Update WhatsApp link
             const whatsappMessage = `Hi Phemmy Expert! I just calculated my FUTA aggregate score as ${aggregate.toFixed(2)}. I need more information about FUTA admission requirements and guidance. Please help me!`;
-            const whatsappLink = `https://wa.me/YOUR_PHONE_NUMBER?text=${encodeURIComponent(whatsappMessage)}`;
+            const whatsappLink = `https://wa.me/+2348109972243?text=${encodeURIComponent(whatsappMessage)}`;
             document.getElementById('whatsappBtn').href = whatsappLink;
 
             // Show modal
